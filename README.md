@@ -14,5 +14,5 @@ Casts
 * [Lex Fridman Podcast](https://lexfridman.com/podcast) - Lex Fridman (podcast)
 * [Loosely Coupled](https://looselycoupled.info) - Jeff Carouth, Matt Frost (podcast)
 * [Merge Conflict](https://www.mergeconflict.fm) - Frank Krueger, James Montemagno (podcast)
-* [.NET Rocks!](https://www.dotnetrocks.com) - Carl Franklin, Richard Campbell (podcast)1
+* [.NET Rocks!](https://www.dotnetrocks.com) - Carl Franklin, Richard Campbell (podcast)1132
 *
