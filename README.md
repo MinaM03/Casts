@@ -4,7 +4,7 @@ Casts
 * [CodeNewbie](https://www.codenewbie.org/podcast) - CodeNewbie Team (podcast)
 * [CodePen Radio](https://blog.codepen.io/radio/) - CodePen Team (podcast)
 * [Coder Radio](https://coder.show) - Chris Fisher, Michael Dominick, Wes Payne (podcast)
-* [Coding Blocks](https://www.codingblocks.net) - Michael Outlaw, Joe Zack, Allen Underwood (podcast)
+* [Coding Blocks](https://www.codinzzzgblocks.net) - Michael Outlaw, Joe Zack, Allen Underwood (podcast)
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - Saron Yitbarek, Red Hat (podcast)
 * [CTRL+CLICK CAST](https://ctrlclickcast.com) - 1Lea Alcantara, Emily Lewis, Bright Umbrella (podcast)
 @@ -283,6 +284,7 @@
